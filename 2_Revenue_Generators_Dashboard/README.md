@@ -12,7 +12,7 @@ The **Revenue Generators Dashboard** explores BMW’s sales data from 2010–202
 ### **Dashboard File**
 ⬇️ Final Dashboard is available here: 
 
-[Revenue Generators Dashboard](/2_Revenue_Generators_Dashboard\Revenue_Generators_Dashboard.xlsx)
+[Revenue Generators Dashboard](/2_Revenue_Generators_Dashboard/Revenue_Generators_Dashboard.xlsx)
 
 ### **ℹ️ BMW Sales Data (2010-2014) Dataset**
 This dataset was sourced from Kaggle. It appears to represent real-world car sales, but the exact origin or authenticity of the data is not specified. 
